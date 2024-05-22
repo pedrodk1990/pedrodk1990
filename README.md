@@ -13,7 +13,7 @@
 
 - 📫 Contato **pedrodkstudio@gmail.com**
 
-- ⚡ Curiosidade **O recorde de voo de uma galinha é de 13 segundos**
+- ⚡ Curiosidade **O voo mais longo de uma galinha foi de 13 segundos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
