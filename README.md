@@ -1,20 +1,39 @@
-<h1 align="center">Olá 👋, me chamo Pedro Paulo</h1>
-<h3 align="center">Um desenvolvedor apaixonado do Brazil</h3>
+# Olá 👋, me chamo Pedro Paulo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrodk1990&label=Profile%20views&color=0e75b6&style=flat" alt="pedrodk1990" /> </p>
+## Sobre mim
+    Sou um desenvolvedor do Brasil apaixonado por criar soluções inovadoras.
+    Criei o site da minha loja (você pode conferir [aqui](https://www.doginside.net.br/).) 
+    utilizando ASP.NET, Javascript (com o minímo de biblioteca e frameworks possível), HTML e CSS.
+    
+    Gosto de jogos de guerra e, a pouco tempo, descobri o gosto das viajagens de moto.
+    Atualmente, estou em busca de oportunidades que me permitam continuar aprendendo e contribuindo para projetos que impactem positivamente a sociedade.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrodk1990" alt="pedrodk1990" /></a> </p>
+## Soft skills
+### Comunicação objetiva ###
+> Capacidade de expressar ideias de forma clara e concisa, facilitando a colaboração com colegas de equipe e 		clientes.
+### Adaptabilidade ###
+> Capacidade e se adaptar a novos desafios e ambientes de trabalho, lidando de forma eficaz com mudanças e 		imprevistos.
+### Resolução de problemas ###
+> Capacidade de identificar, analisar e resolver problemas de forma eficiente, buscando soluções criativas e 		inovadoras.
+### Aprendizagem ###
+> Capacidade de aprender e aplicar novos conceitos, técnicos ou não, com competência.
+### Trabalho em equipe ###
+> Habilidade de trabalhar de forma colaborativa em equipe, contribuindo com suas habilidades e ideias para 		alcançar objetivos comuns.
+### Proatividade ###
+> Iniciativa para buscar novas oportunidades, assumir responsabilidades e agir antecipadamente para evitar 		problemas.
+### Organização e gerenciamento de tempo ###
+> Capacidade de organizar tarefas, estabelecer prioridades e gerenciar o tempo de forma eficaz para cumprir 		prazos e objetivos.
+### Pensamento crítico ###
+> Habilidade de analisar informações de forma crítica, avaliando diferentes perspectivas e tomando decisões 		fundamentadas.
+### Resiliência ###
+> Capacidade e enfrentar desafios e adversidades com determinação e otimismo, buscando aprender e crescer 		com as experiências.
 
-- 🔭 Estou atualmente trabalhando no site do meu petshop [Doginside - Petshop](https://www.doginside.net.br/sobre)
 
-- 🌱 Estou aprendendo sobre desenvolvimento mobile **Flutter, Android Studio**
-
-- 💬 Consigo ajudar com **HTML, Javascript, C#, ASP.NET Framework, Java**
-
-- 📫 Contato **pedrodkstudio@gmail.com**
-
-- ⚡ Curiosidade **O voo mais longo de uma galinha foi de 13 segundos**
-
+## Hard skills
+### Frontend ###
+> HTML, CSS, JavaScript.
+### Backend ###
+> ASPNET, C#, Java, Banco de dados MySql, Integrações com API's de terceiros.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
