@@ -2,7 +2,7 @@
 
 ## Sobre mim
     Sou um desenvolvedor do Brasil apaixonado por criar soluções inovadoras.
-    Criei o site da minha loja (você pode conferir [aqui](https://www.doginside.net.br/).) 
+    Criei o site da minha loja (você pode conferir <a href="https://www.doginside.net.br/sobre" target="_blank" rel="noreferrer">aqui</a>.) 
     utilizando ASP.NET, Javascript (com o minímo de biblioteca e frameworks possível), HTML e CSS.
     
     Gosto de jogos de guerra e, há pouco tempo, descobri o gosto das viajagens de moto.
