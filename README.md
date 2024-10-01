@@ -82,6 +82,8 @@ você pode conferir mais sobre a loja <a href="https://www.doginside.net.br/sobr
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodk1990&" alt="pedrodk1990" /></p>
 
 ## A Loja ##
+<a href="https://www.doginside.net.br/sobre" target="_blank" rel="noreferrer">Doginside</a>
+
     Recursos compartilhados:
         Cadastro de produtos, clientes, pets, carteira de vacina.
         Controle de estoque.
